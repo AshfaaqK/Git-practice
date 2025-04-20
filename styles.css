@@ -1,0 +1,14 @@
+#backToTop {
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    border: none;
+    background: #333;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-radius: 50%;
+  }
+
+.tall {
+    margin-top: 1200px;
+}
